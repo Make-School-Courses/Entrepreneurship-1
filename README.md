@@ -1,4 +1,4 @@
-# Entrepreneurship 1: Growth, Validation, and Product-Market Fit
+# Entrepreneurship 1: Ideation, Validation
 
 All businesses start with an idea. The trouble though is that idea isn't usually what turns into a successful business.
 
@@ -13,37 +13,41 @@ All our efforts early in a business's life is to demonstrate **Product-Market Fi
 ## Competencies & Objectives
 
 * Use the business model canvas to layout an initial business idea
+* Position a product relative to direct and indirect competitors
 * Develop an elevator pitch
 * Identify and list the Riskiest Assumptions of a business idea
 * Identify and list your own biases and make plans to debiase your entrepreneurial process
-* List the common pivots companies make when a business idea is invalidated
+* Define a "pivot" and list the most common pivots companies make.
 * Design and execute experiments to test your riskiest assumptions - aka **RATs** (Riskiest Assumption Tests)
 * Plan and conduct validation-focused user interviews
 * Build a rudimentary marketing funnel with Click-, Bounce- and Conversion-rates
 * Use common marketing and growth engineering strategies to test the stages of your marketing funnel
 
-## Deliverables
+## Steps to Validate a Business Idea
 
-* Multiple completed Business Model Canvases
-* Multiple Elevator Pitches
-* A Landing Page for Your Product
-* Completed Value Proposition
+1. Come up with an idea
+1. Complete an elevator pitch (The problem, how it is solved today, your solution, your solution's benefits)
+1. Complete a business model canvas
+1. Write out Riskiest Assumptions and their Tests (RATs)
+1. Conduct user interviews and run RATs
+1. Build landing page
+1. Conduct growth campaigns
+1. Measure channel conversions
 
 ## Lessons
 
 Each lesson the instructor will discuss a topic very briefly, and then spend time answering questions and having 1:1's with students who are moving through the process (below) at their own pace.
 
-1. Introduction to Lean Startup & How this Class Works
-1. Ideation
-1. Business Model Canvas
-1. Elevator Pitch
-1. Assumptions
-1. RATs
+1. Introduction to Lean Startup & Elevator Pitches
+1. Elevator Pitches & Business Model Canvas
+1. Develop RATs
+1. User Interviewing & Role Play
+1. User Interviewing (Lab)
 1. Marketing Funnel: The Funnel: Awareness, Consideration, Conversion, Reactivation, Evangelism
-1. Marketing Funnel: Conversion Rate: Consideration => Conversion,
-1. Growth Campaigns
-1. Growth Campaigns
-1. Growth Campaigns
+1. Marketing Funnel: Conversion Rate: Consideration => Conversion - Landing Page
+1. How to Design a Campaign
+1. User Interviews & Growth Campaigns
+1. User Interviews & Growth Campaigns
 1. Presentations
 
 ## Evaluation
@@ -51,21 +55,24 @@ Each lesson the instructor will discuss a topic very briefly, and then spend tim
 In order to pass this course, you must
 
 1. Have fewer than 2 unexcused absences
-1. Invalidate at least one business idea
-1. Pivot at least once
-1. Finish and turn in all the deliverables for each step for at least one business idea
-1. Complete a **Product Write Up** 2-5 pages / 500-1500 words that tells the story of your product. It must include:
+1. Invalidate at least one business idea and pivot at least once.
+1. Plan and conduct at least 5 formal user interviews
+1. Build a Landing Page
+1. Conduct at least 3 growth campaigns
+1. Complete a **Product Write Up** 4-6 pages / 1000-1500 words that tells the story of your product. It must include:
   * What idea(s) you started with
-  * What RATs turned out one way or the other
-  * What discoveries you made
+  * Your original elevator pitch
+  * Your original RATs
+  * Descriptions of each user interview you did
+  * Any discoveries and pivots you made
   * A link to your landing page
-  * The outcomes of your awareness campaigns
+  * The outcomes of your growth campaigns
   * A conversion rates table per campaign and channel
   * What you would do with more time
 
 You will be evaluated on:
 
-1. Your ability to debiase your RATs
+1. Your ability to debias your RATs
 1. The quality of the plan your marketing funnel
 1. The quality of your landing page
 1. The creativity and quality for your awareness campaigns
