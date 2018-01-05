@@ -17,11 +17,14 @@ All our efforts early in a business's life is to demonstrate **Product-Market Fi
 * Develop an elevator pitch
 * Identify and list the Riskiest Assumptions of a business idea
 * Identify and list your own biases and make plans to debiase your entrepreneurial process
+* Define product-market-fit
 * Define a "pivot" and list the most common pivots companies make.
 * Design and execute experiments to test your riskiest assumptions - aka **RATs** (Riskiest Assumption Tests)
 * Plan and conduct validation-focused user interviews
 * Build a rudimentary marketing funnel with Click-, Bounce- and Conversion-rates
 * Use common marketing and growth engineering strategies to test the stages of your marketing funnel
+* Timing
+* Founder Relations
 
 ## Steps to Validate a Business Idea
 
@@ -38,16 +41,22 @@ All our efforts early in a business's life is to demonstrate **Product-Market Fi
 
 Each lesson the instructor will discuss a topic very briefly, and then spend time answering questions and having 1:1's with students who are moving through the process (below) at their own pace.
 
-1. Introduction to Lean Startup & Elevator Pitches
+1. Introduction to Lean Startup & Elevator Pitches - Timeline of things
 1. Elevator Pitches & Business Model Canvas
 1. Develop RATs
 1. User Interviewing & Role Play
+1. User Interviewing (Lab)
 1. User Interviewing (Lab)
 1. Marketing Funnel: The Funnel: Awareness, Consideration, Conversion, Reactivation, Evangelism
 1. Marketing Funnel: Conversion Rate: Consideration => Conversion - Landing Page
 1. How to Design a Campaign
 1. User Interviews & Growth Campaigns
 1. User Interviews & Growth Campaigns
+1.
+1.
+1.
+1.
+1.
 1. Presentations
 
 ## Evaluation
@@ -55,7 +64,7 @@ Each lesson the instructor will discuss a topic very briefly, and then spend tim
 In order to pass this course, you must
 
 1. Have fewer than 2 unexcused absences
-1. Invalidate at least one business idea and pivot at least once.
+1. Invalidate at least one business idea and pivot at least once
 1. Plan and conduct at least 5 formal user interviews
 1. Build a Landing Page
 1. Conduct at least 3 growth campaigns
