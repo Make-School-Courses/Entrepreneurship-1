@@ -41,6 +41,31 @@ All our efforts early in a business's life is to demonstrate **Product-Market Fi
 
 Each lesson the instructor will discuss a topic very briefly, and then spend time answering questions and having 1:1's with students who are moving through the process (below) at their own pace.
 
+How do you decide to work on an idea?
+- Formulate the business idea clearly
+- Validate there is a market.
+- Check your RATs.
+
+Who has a startup idea they already want to work on?
+
+Business model canvas - your own idea or an existing businesses
+Comparative advantages - value proposition statements: "We help _____ to _____ by ______"
+Competitive landscape diagrams
+Calculate Total Appreciable Market - examples from existing businesses
+
+RATs - your own idea/problem space or an existing business when they started
+User interviewing - your own idea/problem space or a food business
+  - developing approach
+  - drilling
+
+Marketing Funnel and Landing Page
+
+Landing Page
+Pre/Post Mortem Blog Post - reflections each day, notes from user interviews
+
+Public office hours with Dan/Braus/Ashu
+
+
 1. Introduction to Lean Startup & Elevator Pitches - Timeline of things
 1. Elevator Pitches & Business Model Canvas
 1. Develop RATs
@@ -76,7 +101,6 @@ In order to pass this course, you must
   * Any discoveries and pivots you made
   * A link to your landing page
   * The outcomes of your growth campaigns
-  * A conversion rates table per campaign and channel
   * What you would do with more time
 
 You will be evaluated on:
